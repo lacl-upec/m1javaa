@@ -7,6 +7,6 @@ TD de Java avancé, M1
 
 {% for post in site.posts %}
 
-- [{{ post.title }}]({{ post.url}})
+- [{{ post.title }}](/m1javaa{{ post.url}})
 
 {% endfor %}

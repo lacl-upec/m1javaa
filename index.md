@@ -1,4 +1,10 @@
 ---
-title: index
+layout: post
+title: "TD de Java avancé, M1"
 ---
-Arggggggghhhhhh!!!!
+TD de Java avancé, M1
+=====================
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url}})
+{% endfor %}

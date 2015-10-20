@@ -1,7 +1,7 @@
 ---
-title: TD de Java avancé, M1
+layout: post
+title: "TD de Java avancé, M1"
 ---
-
 TD de Java avancé, M1
 =====================
 

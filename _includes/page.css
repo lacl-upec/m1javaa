@@ -107,17 +107,17 @@ pre {
 	-webkit-border-radius:3px;
 	-moz-border-radius:3px;border-radius:3px;
 }
-pre code {
-	padding:0;
-	background-color:#eee;
-	border:none;
-}
 code {
         font-family: monospace;
 	background-color:#f8f8ff;
 	color:#444;
 	padding:0 .2em;
 	border:1px solid #dedede;
+}
+pre code {
+	padding:0;
+	background-color:#eee;
+	border:none;
 }
 blockquote {
   border-left: 4px solid;

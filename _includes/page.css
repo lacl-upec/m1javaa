@@ -107,7 +107,7 @@ pre {
 	-webkit-border-radius:3px;
 	-moz-border-radius:3px;border-radius:3px;
 }
-:not(pre) code {
+p,li code {
         font-family: monospace;
 	background-color:#f8f8ff;
 	color:#444;
@@ -115,6 +115,7 @@ pre {
 	border:1px solid #dedede;
 }
 pre code {
+        font-family: monospace;
 	padding:0;
 	border:none;
 	background-color:#00000000;
